@@ -1,2 +1,3 @@
 Ini isi file1.
 file ini telah diedit di remote.
+file ini telah diedit di local branch newBranch.
