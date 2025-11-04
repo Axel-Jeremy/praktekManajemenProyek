@@ -1,1 +1,2 @@
 Ini isi file2.
+file ini telah diedit di remote.
